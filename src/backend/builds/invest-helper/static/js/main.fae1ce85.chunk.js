@@ -1,0 +1,2 @@
+(this.webpackJsonpthe_blewitts_client=this.webpackJsonpthe_blewitts_client||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),i=n.n(c),s=n(3),r=n.n(s),j=n(0);function b(){return Object(j.jsx)("div",{children:"HELLO WORLD"})}var d=function(){return Object(j.jsx)("div",{className:"App",children:Object(j.jsx)(b,{})})};n(9);r.a.render(Object(j.jsx)(i.a.StrictMode,{children:Object(j.jsx)(d,{})}),document.getElementById("root"))}},[[10,1,2]]]);
+//# sourceMappingURL=main.fae1ce85.chunk.js.map
